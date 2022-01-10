@@ -18,5 +18,5 @@ Show C by blinking 2 times
 Show D by blinking 3 times
 Finish!
 ```
-### Example video
-[![Example](https://i9.ytimg.com/vi/Db4oTVKpSxw/mq1.jpg?sqp=CLSd7I4G&rs=AOn4CLBDrKzSPtZxdL5GGqn9-6VxBSVMTA)](https://youtu.be/Db4oTVKpSxw)
+### Example video [[link](https://youtu.be/Db4oTVKpSxw)]
+[![Example](https://user-images.githubusercontent.com/16127951/148716743-0ae0975b-adb7-42f3-b13e-95ddd5de94ba.png)](https://youtu.be/Db4oTVKpSxw)
