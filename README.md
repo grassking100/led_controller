@@ -1,7 +1,7 @@
 # Led controller of Raspberry Pi 3
 The program would blink many times based on its ASCII code minusing ASCII code of 'A'
 
-### Usgae
+### Usage
 ```
 git clone https://github.com/grassking100/led_controller.git
 cd led_controller
